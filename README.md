@@ -1,4 +1,4 @@
-> **Fork** de [rodrigoulisses/prawn-graph](https://github.com/rodrigoulisses/prawn-graph) (que por sua vez é fork de [HHRy/prawn-graph](https://github.com/HHRy/prawn-graph)). O projeto educação usa a branch `rodrigoulisses/fix-y-position`, no commit [`5451260`](https://github.com/rodrigoulisses/prawn-graph/commit/5451260a31f3493369a453e5f04e52da2e4d5fc7).
+> **Fork** de [rodrigoulisses/prawn-graph](https://github.com/rodrigoulisses/prawn-graph) (que por sua vez é fork de [HHRy/prawn-graph](https://github.com/HHRy/prawn-graph)). Os projetos educação e saúde usam a branch `rodrigoulisses/fix-y-position`: o projeto educação no commit [`5451260`](https://github.com/rodrigoulisses/prawn-graph/commit/5451260a31f3493369a453e5f04e52da2e4d5fc7) e o projeto saúde no commit [`6706668`](https://github.com/rodrigoulisses/prawn-graph/commit/6706668e3356384e3af0332cdc075cbf582b5642).
 
 # Prawn::Graph - Easy Graphing for Prawn
 
